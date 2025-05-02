@@ -1,5 +1,5 @@
 {
-    "name": "ssntpl/my-php-package",
+    "name": "Himanshu28102/my-php-package",
     "description": "This is newsomatic ackage used to creata a news from different  sources.",
     "type": "library",
     "require": {
