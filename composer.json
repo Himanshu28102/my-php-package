@@ -1,6 +1,6 @@
 {
     "name": "himanshu28102/my-php-package",
-    "description": "This is newsomatic ackage used to creata a news from different  sources.",
+    "description": "This is new package.",
     "type": "library",
     "require": {
         "php": ">=7.4"
